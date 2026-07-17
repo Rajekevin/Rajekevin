@@ -1,4 +1,4 @@
-<h1 align="center">Kevin Raje</h1>
+<h1 align="center">Rajekevin</h1>
 <h3 align="center">Senior Full-Stack Engineer · Backend-focused</h3>
 
 <p align="center">

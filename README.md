@@ -1,4 +1,4 @@
-<h1 align="center">Rajekevin</h1>
+<h1 align="center">Kevin Raje</h1>
 <h3 align="center">Senior Full-Stack Engineer · Backend-focused</h3>
 
 <p align="center">
@@ -56,13 +56,18 @@ SPA frontend, full TDD/BDD coverage (PHPUnit, Behat, PhpSpec), containerized
 with Docker.
 
 **[train-departures-idf](https://github.com/Rajekevin/train-departures-idf)** — Real-time transit board (PWA)
-Live departure board for Île-de-France Mobilités, built with TanStack Start
-(React 19, SSR) and TanStack Query against the PRIM/SIRI real-time API.
-Installable PWA with a dedicated full-screen "station display" mode.
+PWA displaying real-time next departures for an Île-de-France Mobilités stop
+(PRIM API), styled like a station display board. Built with TanStack Start,
+React and Tailwind.
 
 **[EmployeeManagerApp](https://github.com/Rajekevin/EmployeeManagerApp)** — Employee management system
 Full-stack CRUD application with a Spring Boot REST API and a decoupled
 Angular frontend.
+
+**[DevFeed](https://github.com/Rajekevin/DevFeed)** — RSS tech news hub (browser extension)
+New-tab browser extension turning your tab into a technical news hub —
+multi-source RSS/Atom aggregation, category filtering, read/unread and
+favorites, light/dark themes, keyboard shortcuts. Vanilla JS, no framework.
 
 **[jenkins-php-deployment](https://github.com/Rajekevin/jenkins-php-deployment)** — CI/CD pipeline reference
 Jenkins pipeline automating clone → test → deploy for a PHP application,
@@ -74,11 +79,12 @@ via Algolia DocSearch, automated deploys via GitHub Actions.
 
 ### Also on my GitHub
 
-A few things built for fun and to stay sharp on 3D/graphics programming:
-browser games like [Holy Cow Road](https://github.com/Rajekevin/holy-cow-road)
-and [Pigeon Parisien](https://github.com/Rajekevin/pigeon-parisien-game)
-(Three.js), and a Zelda-inspired prototype in Godot
-([zildah](https://github.com/Rajekevin/zildah)).
+A couple of browser games built for fun and to stay sharp on 3D/graphics
+programming, both playable instantly with zero install:
+[Holy Cow Road](https://github.com/Rajekevin/holy-cow-road) (guide a sacred
+cow through Indian street traffic) and
+[Pigeon Parisien — Le Roi de la Ville](https://github.com/Rajekevin/pigeon-parisien-game)
+(a comedic aerial runner through the streets of Paris) — both JS + Three.js.
 
 ### Get in touch
 

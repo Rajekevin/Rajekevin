@@ -3,7 +3,7 @@
 
 <p align="center">
   I design and stabilize backend systems for applications people rely on every day.<br/>
-  6+ years · PHP / Symfony, Java / Spring Boot · currently at AFD Technologies (Accenture)
+  6+ years · PHP / Symfony, Java / Spring Boot ·
 </p>
 
 <p align="center">
@@ -21,10 +21,6 @@ Most of my work happens on long-lived business applications where a bug has real
 consequences: modernizing legacy PHP, getting test coverage onto code that never
 had any, paying down technical debt without stopping delivery, and making
 architecture decisions a team can live with for years.
-
-- **Healthcare** — modernization and stabilization of critical PHP/Symfony applications for the CNAM
-- **Public safety** — corrective and evolutive maintenance of a national fraud reporting platform (ANFSI)
-- **Energy** — backend and frontend development of the CRM used daily by Enedis customer advisors (Capella)
 
 ### Stack
 
